@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I'm Jimmy, a third-year computer science at the University of Southern California. Since taking my first introduction to programming course in college, I have been infatuated by the artistry and problem-solving necessary for full-stack web development. Through personal and academic projects, I have had the opportunity to apply my skills in both front-end and back-end technologies, including JavaScript, React, React Native, SQL, and Node.js.
+Hi! I'm Jimmy, a third-year computer science student at the University of Southern California. Since taking my first introduction to programming course in college, I have been infatuated by the artistry and problem-solving necessary for full-stack web development. Through personal and academic projects, I have had the opportunity to apply my skills in both front-end and back-end technologies, including JavaScript, React, React Native, SQL, and Node.js.
 
 Feel free to contact me or just look around!
 
